@@ -61,7 +61,7 @@ I'm always open to connecting with fellow developers, students, and potential em
 <a href="mailto:juancorta2003@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20Touch-blue?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="www.linkedin.com/in/juan-cortabarria-labat">
+<a href="https://www.linkedin.com/in/juan-cortabarria-labat">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
