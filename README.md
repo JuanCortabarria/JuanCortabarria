@@ -50,11 +50,10 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### 📫 Get in Touch
+### 🔗 Connect with me on LinkedIn
 
 <p align="left">
-<a href="mailto:juancorta2003@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="juancorta2003@gmail.com" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/juan-cortabarria-labat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-cortabarria-labat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-cortabarria-labat" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="juan-cortabarria-labat" height="30" width="40" /></a>
 </p>
 
 ### 📊 My GitHub Stats
